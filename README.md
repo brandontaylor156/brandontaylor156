@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">I'm a full-stack developer captivated by beautiful things! Some of those include art, music, sports, and much more. I appreciate the time you took to visit and hope you find some interest in my work.</p>
+<p align="center">I'm a full-stack developer captivated by beautiful things! Some of those include sports, art, music, and much more. I appreciate the time you took to visit and hope you find some interest in my work.</p>
 
 <div align="center">
   <p>📬 You can reach me at <a href="brandon.david4@outlook.com">brandon.david4@outlook.com</a></p>
