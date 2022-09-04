@@ -22,8 +22,8 @@
 </div>
 
 <div align="center">
-  <h4>Baseline Today: Professional Tennis Forum</h4>
-  <img src="nadal.png"/>
+  <h4><a href="https://github.com/brandontaylor156/baseline-today">Baseline Today: Professional Tennis Forum</a></h4>
+  <a href="https://github.com/brandontaylor156/baseline-today"><img src="nadal.png"/></a>
 </div>
 
 ---
