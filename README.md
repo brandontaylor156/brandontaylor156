@@ -17,9 +17,8 @@
 ---
 
 <div align="center">
-  <h4>Chit Chat: Instant Messaging App</h4>
-  <img src="chitchat-login.png"/>
-  <img src="chitchat-dms.gif"/>
+  <a href="https://github.com/brandontaylor156/chit-chat"><h4>Chit Chat: Instant Messaging App</h4></a>
+  <a href="https://github.com/brandontaylor156/chit-chat"><img src="chitchat-login.png"/></a>
 </div>
 
 ---
