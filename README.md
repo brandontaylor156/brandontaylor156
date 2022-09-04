@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandontaylor156&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandontaylor156&theme=black-ice&hide_border=false" />
+</p>
