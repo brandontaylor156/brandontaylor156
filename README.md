@@ -7,8 +7,6 @@
 <div align="center">
   <p>📬 You can reach me at <a href="brandon.david4@outlook.com">brandon.david4@outlook.com</a></p>
   <p>⚡ I'm currently learning MERN</p>
-  <p>👁 I'm a big fan of this guy:</p>
-  <a href="https://twitter.com/simonstalenhag"><img src="https://cdna.artstation.com/p/assets/images/images/032/776/554/original/filipe-dilly-eletric-state-simon-dilly.gif?1607441624"></a>
 </div>
 
 
