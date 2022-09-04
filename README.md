@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">I'm a full-stack developer captivated by beautiful things. Some of those include art, music, sports, and much more! I appreciate the time you took to visit and hope you find some interest in my work.</p>
+<p align="center">I'm a full-stack developer captivated by beautiful things! Some of those include art, music, sports, and much more. I appreciate the time you took to visit and hope you find some interest in my work.</p>
 
 <p align="center">⚡ I am currently learning MERN</p>
 
