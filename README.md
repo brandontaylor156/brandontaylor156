@@ -18,7 +18,7 @@
 
 <div align="center">
   <h4>Chit Chat: Instant Messaging App</h4>
-  <img src="chitchat-dms.gif"/>
+  <img src="chitchat-login.png"/>
   <img src="chitchat-dms.gif"/>
 </div>
 
