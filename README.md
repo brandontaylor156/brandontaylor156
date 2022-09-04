@@ -12,12 +12,19 @@
 
 ---
 
+<h3 align="center">Notable Projects</h3>
+
+---
+
 <div align="center">
-  <img src="courierdribblerbottom.gif">
+  <h4>Chit Chat: Instant Messaging App</h4>
+  <img src="courierdribblerbottom.gif"/>
 </div>
 
 ---
 
-<h3 align="center">Notable Projects</h3>
+<div align="center">
+  <img src="courierdribblerbottom.gif"/>
+</div>
 
----
+
