@@ -7,6 +7,7 @@
 <div align="center">
   <p>📬 You can reach me at <a href="brandon.david4@outlook.com">brandon.david4@outlook.com</a></p>
   <p>⚡ I'm currently learning MERN</p>
+  <img src="courierdribblerbottom.gif">
 </div>
 
 
