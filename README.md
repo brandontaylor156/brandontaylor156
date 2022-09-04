@@ -12,7 +12,7 @@
 
 ---
 
-<img src="courierdribblerbottom.gif">
+<img align="center" src="courierdribblerbottom.gif">
 
 ---
 
