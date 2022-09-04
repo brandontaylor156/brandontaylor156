@@ -22,9 +22,10 @@
 </div>
 
 <div align="center">
-  <h4><a href="https://github.com/brandontaylor156/chit-chat">Baseline Today: Professional Tennis Forum</a></h4>
-  <a href="https://github.com/brandontaylor156/chit-chat"><img src="baseline.png"/></a>
+  <h4>Baseline Today: Professional Tennis Forum</h4>
+  <img src="nadal.png"/>
 </div>
+
 ---
 
 <div align="center">
