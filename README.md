@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">Notable Projects</h3>
+<h3 align="center">Recent Projects</h3>
 
 ---
 
