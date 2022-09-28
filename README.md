@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <h4><a href="https://github.com/Simul8-OS/98ish">98ish: Operating System Simulation (React.js)</a> | <a href="3.85.108.226/">Live Site</a></h4>
+  <h4><a href="https://github.com/Simul8-OS/98ish">98ish: Operating System Simulation (React.js)</a>  |  <a href="3.85.108.226/">Live Site</a></h4>
   <a href="https://github.com/Simul8-OS/98ish"><img src="98ish.png"/></a>
 </div>
 
