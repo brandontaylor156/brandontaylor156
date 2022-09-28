@@ -17,12 +17,17 @@
 ---
 
 <div align="center">
-  <h4><a href="https://github.com/brandontaylor156/chit-chat">Chit Chat: Instant Messaging App</a></h4>
+  <h4><a href="https://github.com/Simul8-OS/98ish">98ish: Operating System Simulation (React.js)</a></h4>
+  <a href="https://github.com/Simul8-OS/98ish"><img src="98ish.png"/></a>
+</div>
+
+<div align="center">
+  <h4><a href="https://github.com/brandontaylor156/chit-chat">Chit Chat: Instant Messaging App (Java)</a></h4>
   <a href="https://github.com/brandontaylor156/chit-chat"><img src="chitchat-login.png"/></a>
 </div>
 
 <div align="center">
-  <h4><a href="https://github.com/brandontaylor156/baseline-today">Baseline Today: Professional Tennis Forum</a></h4>
+  <h4><a href="https://github.com/brandontaylor156/baseline-today">Baseline Today: Professional Tennis Forum (Python)</a></h4>
   <a href="https://github.com/brandontaylor156/baseline-today"><img src="nadal.png"/></a>
 </div>
 
