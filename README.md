@@ -5,7 +5,7 @@
 <p align="center">I'm a full-stack developer captivated by beautiful things! Some of those include sports, art, music, and much more. I appreciate the time you took to visit and hope you find some interest in my work.</p>
 
 <div align="center">
-  <p>📬 You can reach me by email at <a href="brandon.david4@outlook.com">brandon.david4@outlook.com</a> or by my <a href="https://www.linkedin.com/in/brandontaylor156/">LinkedIn</a>!</p>
+  <p>📬 You can reach me via <a href="https://www.linkedin.com/in/brandontaylor156/">LinkedIn</a> or shoot me an email at <a href="brandon.david4@outlook.com">brandon.david4@outlook.com</a>!</p>
   <p>⚡ I'm currently learning MERN</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandontaylor156&theme=monokai&hide_border=false" />
 </div>
