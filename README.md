@@ -23,7 +23,8 @@
 
 <div align="center">
   <h4><a href="https://github.com/brandontaylor156/chit-chat">Chit Chat: Instant Messaging App (Java)</a></h4>
-  <a href="https://github.com/brandontaylor156/chit-chat"><img src="chitchat-login.png"/></a>
+  <a href="https://github.com/brandontaylor156/chit-chat"><img src="chitchat-channels.gif"/></a>
+  <a href="https://github.com/brandontaylor156/chit-chat"><img src="chitchat-dms.gif"/></a>
 </div>
 
 <div align="center">
