@@ -18,12 +18,12 @@
 ---
 
 <div align="center">
-  <h4><a href="https://github.com/Simul8-OS/98ish">98ish: Operating System Simulation (React.js)</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://simul8.98ish.net/">Live Site</a></h4>
+  <h4><a href="https://github.com/Simul8-OS/98ish">98ish: Operating System Simulation (React.js)</a></h4>
   <a href="https://github.com/Simul8-OS/98ish"><img src="98ish.png"/></a>
 </div>
 
 <div align="center">
-  <h4><a href="https://github.com/brandontaylor156/chit-chat">Chit Chat: Instant Messaging App (Java)</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://kb.chit-chat.link/">Live Site</a></h4>
+  <h4><a href="https://github.com/brandontaylor156/chit-chat">Chit Chat: Instant Messaging App (Java)</a></h4>
   <a href="https://github.com/brandontaylor156/chit-chat"><img src="chitchat-channels.gif"/></a>
   <a href="https://github.com/brandontaylor156/chit-chat"><img src="chitchat-dms.gif"/></a>
 </div>
